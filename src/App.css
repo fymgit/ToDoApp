@@ -1,0 +1,9 @@
+.content {
+    max-width: 1200px;
+    display: flex;
+    gap: 1rem;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
