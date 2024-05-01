@@ -1,8 +1,5 @@
-# React + Vite
+# ToDo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+App de notas para a organização de tarefas diárias.
+Funcionalidades de criação e gerenciamento das tarefas, sua interface também contempla dia da semana, horário e temperatura para uma rápida informação.
+Foi desenvolvido usando React e Tailwind.
